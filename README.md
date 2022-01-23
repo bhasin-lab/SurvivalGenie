@@ -15,10 +15,9 @@ The analytical options and comprehensive collection of cancer datasets makes Sur
 Survival Genie is implemented in R Shiny and is available online at https://bbisr.shinyapps.winship.emory.edu/SurvivalGenie/
 
 
-## Tutorials
+## 
 
 A step by step guide on using the tutorial can be found [here](www/Step-by-step-guide.pdf).
 
-The video tutorial for the tool.
-
+The YouTube video for the tutorial can be accessed by clicking on the below thumbnail.
 [![Alt text](mqdefault_6s-1.jpg)](https://www.youtube.com/watch?v=H5s6OYvwwoo)
