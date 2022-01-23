@@ -17,7 +17,8 @@ Survival Genie is implemented in R Shiny and is available online at https://bbis
 
 ## Tutorials
 
-A step by step guide on using the tutorial can be found here:
-[![Alt text](here)](www/Step-by-step-guide.pdf)
+A step by step guide on using the tutorial can be found [here](www/Step-by-step-guide.pdf).
+
+The video tutorial for the tool.
 
 [![Alt text](mqdefault_6s-1.jpg)](https://www.youtube.com/watch?v=H5s6OYvwwoo)
