@@ -12,7 +12,7 @@ Here we developed Survival Genie, an interactive R shiny tool to correlate gene 
 The analytical options and comprehensive collection of cancer datasets makes Survival Genie a unique resource to correlate gene sets, pathways, cellular enrichment and single cell signatures to clinical outcome to assist in developing next generation prognostic and therapeutic biomarkers.
 
 ## Availability
-Survival Genie is implemented in R Shiny and is available online at https://bbisr.shinyapps.winship.emory.edu/SurvivalGenie/
+Survival Genie is implemented in R shiny and is available online at https://bbisr.shinyapps.winship.emory.edu/SurvivalGenie/ and https://bhasinlab.bmi.emory.edu/SurvivalGenie
 
 
 ## 
